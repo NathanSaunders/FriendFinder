@@ -4,7 +4,7 @@
 
 *Friend Finder* matches friends based on the user's responses to a ten question survey. When the survey is submitted, an existing user record closest to the current user's responses is found and returned in a modal. The closest set of user responses is defined as the set with the lowest absolute difference for all ten questions combined.
 
-*Friend Finder* application is meant to simulate a simple dating app. The application is implemented using a [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/) server on the back end and the [Materialize](http://materializecss.com/) CSS framework on the front end.
+*Friend Finder* application is meant to simulate a simple dating app. The application is implemented using a [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/) server on the back end and a CSS framework on the front end.
 
 
 ## Installation
